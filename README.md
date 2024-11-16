@@ -1,7 +1,7 @@
-### Development Team Lead for doFlo
+### Dev for doFlo
 
 
-I work as the lead developer on an workflow automation platform called doflo. 
+I work as dev on a workflow automation platform called doflo. 
 
 You can learn more about it here: <a href="https://www.doflo.com">www.doflo.com</a>
 
